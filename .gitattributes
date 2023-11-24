@@ -15,7 +15,7 @@
 *.jpg  	binary
 *.png 	binary
 *.gif 	binary
-
+ 
 *.lss 	text
 
 # Force bash scripts to always use lf line endings so that if a repo is accessed
